@@ -4,4 +4,4 @@
 python model.py
 * run the app.py 
 * type in your browser the localhost address(127.0.0.1:5000) 
-! [alt text](https://ibb.co/k0Vk5DF)
+![alt text]("https://ibb.co/k0Vk5DF"><img src="https://i.ibb.co/nfqZ61S/Capture.jpg")
